@@ -1,0 +1,932 @@
+----------------------- [ Start of Logs (12-06-2023 13:00:23) ] -----------------------
+[12-06-2023 13:00:23] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:01:13) ] -----------------------
+[12-06-2023 13:01:13] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:01:19) ] -----------------------
+[12-06-2023 13:01:19] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:02:03) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:03:04) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:03:34) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:03:46) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:03:47) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:03:55) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:04:37) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:04:57) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:06:34) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:13:56) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:14:12) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:14:15) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:17:08) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:17:39) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:18:54) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:20:14) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:20:38) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:20:50) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:22:07) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (12-06-2023 13:24:26) ] -----------------------
+[12-06-2023 13:24:26] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (19-06-2023 13:45:20) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (19-06-2023 13:45:44) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (19-06-2023 13:47:01) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (19-06-2023 13:47:10) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 08:58:41) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 08:59:34) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:02:28) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:03:06) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:07:56) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:10:00) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:10:41) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:11:27) ] -----------------------
+[20-06-2023 09:11:27] >>> [ Request - /auth/register ] > Request Type - POST | Body - {"username":"Joxy","email":"someone@example.com","password":"$2b$10$0QFyGpB0d2vgf.fZ.rIaF.dSQb4rVQzP2.LAH4NpxpJvuywrPbjOa","address":"Achter je","phone":"061234567"} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:11:54) ] -----------------------
+[20-06-2023 09:11:54] >>> [ Request - /auth/register ] > Request Type - POST | Body - {"username":"Joxy","email":"someone@example.com","password":"$2b$10$0QFyGpB0d2vgf.fZ.rIaF.dSQb4rVQzP2.LAH4NpxpJvuywrPbjOa","address":"Achter je","phone":"061234567"} | 
+[20-06-2023 09:11:54] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:13:27) ] -----------------------
+[20-06-2023 09:13:27] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:17:17) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:17:38) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:18:03) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:22:32) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:27:19) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:32:45) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:46:28) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:49:56) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:50:59) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:52:03) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:52:32) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:52:42) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:55:22) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 09:56:19) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:04:40) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:06:43) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:07:44) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:07:53) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:08:21) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:08:31) ] -----------------------
+[20-06-2023 11:08:31] >>> [ Request - /stock/1 ] > Request Type - DELETE | Body - {} | 
+[20-06-2023 11:08:31] >>> [ Request - /products/1 ] > Request Type - DELETE | Body - {} | 
+[20-06-2023 11:08:31] >>> [ Request - /products/1 ] > Request Type - DELETE | Body - {} | 
+[20-06-2023 11:08:31] >>> [ Request - /products ] > Request Type - POST | Body - {"name":"Texels Skuumkoppe","brand":"Texels","description":"Donders lekker biertje","type":"Beer","price":"1.89","release_date":"2023-06-16"} | 
+[20-06-2023 11:08:31] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+[20-06-2023 11:08:31] >>> [ Request - /products ] > Request Type - POST | Body - {"name":"Texels Skuumkoppe","brand":"Texels","description":"Donders lekker biertje","type":"Beer","price":"1.89","release_date":"2023-06-16"} | 
+[20-06-2023 11:08:31] >>> [ Request - /products/1 ] > Request Type - DELETE | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:12:18) ] -----------------------
+[20-06-2023 11:12:18] >>> [ Request - /products/1 ] > Request Type - DELETE | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:13:22) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:13:44) ] -----------------------
+[20-06-2023 11:13:44] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:13:44] >>> [ Request - /products ] > Request Type - POST | Body - {"name":"Texels Skuumkoppe","brand":"Texels","description":"Donders lekker biertje","type":"Beer","price":"1.89","release_date":"2023-06-16"} | 
+[20-06-2023 11:13:44] >>> [ Request - /products ] > Request Type - POST | Body - {"name":"Texels Skuumkoppe","brand":"Texels","description":"Donders lekker biertje","type":"Beer","price":"1.89","hidden":"false","release_date":"2023-06-16"} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:15:29) ] -----------------------
+[20-06-2023 11:15:29] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:16:17) ] -----------------------
+[20-06-2023 11:16:17] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:16:17] >>> [ Request - /products/1 ] > Request Type - PUT | Body - {"name":"Texels Skuumkoppe","brand":"Texels","description":"Donders lekker biertje!","type":"Beer","price":"1.89","release_date":"2023-06-16"} | 
+[20-06-2023 11:16:17] >>> [ Request - /products/1 ] > Request Type - PUT | Body - {"name":"Texels Skuumkoppe","brand":"Texels","description":"Donders lekker biertje!","type":"Beer","price":"1.89","release_date":"2023-06-16"} | 
+[20-06-2023 11:16:17] >>> [ Request - /products/1 ] > Request Type - PUT | Body - {"name":"Texels Skuumkoppe","brand":"Texels","description":"Donders lekker biertje!","type":"Beer","price":"1.89","hidden":"false","release_date":"2023-06-16"} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:17:41) ] -----------------------
+[20-06-2023 11:17:41] >>> [ Request - /products/1 ] > Request Type - PUT | Body - {"name":"Texels Skuumkoppe","brand":"Texels","description":"Donders lekker biertje!","type":"Beer","price":"1.89","hidden":"false","release_date":"2023-06-16"} | 
+[20-06-2023 11:17:41] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:17:41] >>> [ Request - /products/2 ] > Request Type - PUT | Body - {"name":"Texels Skuumkoppe","brand":"Texels","description":"Donders lekker biertje!","type":"Beer","price":"1.89","hidden":"false","release_date":"2023-06-16"} | 
+[20-06-2023 11:17:41] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:17:41] >>> [ Request - /stock/2 ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:17:41] >>> [ Request - /stock/ ] > Request Type - POST | Body - {"product_id":"1","quantity":"0"} | 
+[20-06-2023 11:17:41] >>> [ Request - /stock/ ] > Request Type - POST | Body - {"product_id":"1","quantity":"0"} | 
+[20-06-2023 11:17:41] >>> [ Request - /stock/2 ] > Request Type - PUT | Body - {} | 
+[20-06-2023 11:17:41] >>> [ Request - /stock/2 ] > Request Type - PUT | Body - {"product_id":"2","quantity":"5"} | 
+[20-06-2023 11:17:41] >>> [ Request - /stock/3 ] > Request Type - DELETE | Body - {} | 
+[20-06-2023 11:17:41] >>> [ Request - /stock/3 ] > Request Type - DELETE | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:24:29) ] -----------------------
+[20-06-2023 11:24:29] >>> [ Request - /stock/3 ] > Request Type - DELETE | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:28:07) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 11:28:20) ] -----------------------
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 11:28:20] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (20-06-2023 15:04:12) ] -----------------------
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[20-06-2023 15:04:12] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (21-06-2023 10:43:38) ] -----------------------
+[21-06-2023 10:43:38] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (21-06-2023 11:40:58) ] -----------------------
+[21-06-2023 11:40:58] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+[21-06-2023 11:40:58] >>> [ Request - /auth/register ] > Request Type - POST | Body - {"username":"Joxy","email":"someone@example.com","password":"$2b$10$0QFyGpB0d2vgf.fZ.rIaF.dSQb4rVQzP2.LAH4NpxpJvuywrPbjOa","address":"Achter je","contact":"061234567"} | 
+[21-06-2023 11:40:58] >>> [ Request - /auth/register ] > Request Type - POST | Body - {"username":"Joxy","email":"someone@example.com","password":"$2b$10$0QFyGpB0d2vgf.fZ.rIaF.dSQb4rVQzP2.LAH4NpxpJvuywrPbjOa","address":"Achter je","role":"user","contact":"061234567"} | 
+[21-06-2023 11:40:58] >>> [ Request - /auth/register ] > Request Type - POST | Body - {"username":"Joxy","email":"someone@example.com","password":"$2b$10$0QFyGpB0d2vgf.fZ.rIaF.dSQb4rVQzP2.LAH4NpxpJvuywrPbjOa","address":"Achter je","role":"user","phone":"061234567"} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (21-06-2023 17:45:15) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (23-06-2023 09:21:31) ] -----------------------
+[23-06-2023 09:21:31] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+[23-06-2023 09:21:31] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 09:21:31] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 09:21:31] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 09:21:31] >>> [ Request - /stock/all ] > Request Type - GET | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (23-06-2023 09:33:42) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (23-06-2023 10:39:41) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (23-06-2023 10:39:49) ] -----------------------
+[23-06-2023 10:39:49] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[23-06-2023 10:39:49] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (27-06-2023 09:34:10) ] -----------------------
+[27-06-2023 09:34:10] >>> [ Request - /auth/register ] > Request Type - POST | Body - {"username":"Henk","email":"Henk@gmail.com","password":"$2b$10$eNk2yrc6z0bGJF3.SQGqn.WKL8nGAN0hO8f57iuRbzEgO/xwDvGKy","address":"Henk","phone":"06","role":"user"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/register ] > Request Type - POST | Body - {"username":"Henk","email":"Henk@gmail.com","password":"$2b$10$0iPYNuXTKaPjByZFNdbpFeq4fEGJa.gEBFH8kO0k0YhtUNDvx9ZRy","address":"henk","phone":"06","role":"user"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"alkfjlkjg"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"alkfjlkjg"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"alkfjlkjg"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"alkfjlkjg"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"alkfjlkjg"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"alkfjlkjg"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"alkfjlkjg"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"alkfjlkjg"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"alkfjlkjg"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"alkfjlkjg"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"alkfjlkjg"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"alkfjlkjg"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"alkfjlkjg"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+[27-06-2023 09:34:10] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+[27-06-2023 09:34:10] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[27-06-2023 09:34:10] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[27-06-2023 09:34:10] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[27-06-2023 09:34:10] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[27-06-2023 09:34:10] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[27-06-2023 09:34:10] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[27-06-2023 09:34:10] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[27-06-2023 09:34:10] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[27-06-2023 09:34:10] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[27-06-2023 09:34:10] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[27-06-2023 09:34:10] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (27-06-2023 13:35:04) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (29-06-2023 13:45:03) ] -----------------------
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 13:45:03] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[29-06-2023 19:32:08] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (30-06-2023 08:32:05) ] -----------------------
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+[30-06-2023 08:32:05] >>> [ Request - /products ] > Request Type - POST | Body - {"name":"Wit Shirt","brand":"Dutch Urban Denim","description":"Wit Shirt van Dutch Urban Denim","type":"Clothing","price":"19.95","hidden":"false","release_date":"2023-06-29"} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/3 ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 08:32:05] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (30-06-2023 09:28:01) ] -----------------------
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/3 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 09:28:01] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (30-06-2023 09:54:53) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (30-06-2023 10:23:01) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (30-06-2023 10:24:19) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (30-06-2023 10:25:19) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (30-06-2023 10:26:04) ] -----------------------
+[30-06-2023 10:26:04] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:26:04] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:26:04] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:26:04] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:26:04] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:26:04] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:26:04] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:26:04] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:26:04] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:26:04] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:26:04] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:26:04] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:26:04] >>> [ Request - /products ] > Request Type - POST | Body - {"name":"Test Product","brand":"Test","description":"Description","type":"Clothing","price":"19.95","hidden":"false","release_date":"2023-06-29"} | 
+[30-06-2023 10:26:04] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+[30-06-2023 10:26:04] >>> [ Request - /products ] > Request Type - POST | Body - {"name":"Test Product","brand":"Test","description":"Description","type":"Clothing","price":"19.95","hidden":"false","release_date":"2023-06-29"} | 
+[30-06-2023 10:26:04] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (30-06-2023 10:36:16) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (30-06-2023 10:37:08) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (30-06-2023 10:37:12) ] -----------------------
+[30-06-2023 10:37:12] >>> [ Request - /products/featured ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/featured ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products ] > Request Type - POST | Body - {"name":"Test Product 2","brand":"Test","description":"Description","type":"Clothing","price":"19.95","hidden":"false","release_date":"2023-06-29"} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/5 ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/4 ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/4 ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/2 ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"joxy","password":"123456"} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 10:37:12] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+
+
+>>> Restarting
+----------------------- [ Start of Logs (30-06-2023 20:35:01) ] -----------------------
+
+>>> Restarting
+----------------------- [ Start of Logs (30-06-2023 22:34:55) ] -----------------------
+[30-06-2023 22:34:55] >>> [ Request - /products/random/3 ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/search/t-shirts ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/search/t-shirts ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/search/broeken ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/search/broeken ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/1 ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/random/4 ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/1 ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/random/4 ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /auth/login ] > Request Type - POST | Body - {"user":"Joxy","password":"123456"} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/random/3 ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[30-06-2023 22:34:55] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+
+>>> Restarting
+----------------------- [ Start of Logs (02-07-2023 15:43:50) ] -----------------------
+[02-07-2023 15:43:50] >>> [ Request - /products/random/3 ] > Request Type - GET | Body - {} | 
+[02-07-2023 15:43:50] >>> [ Request - /products/random/3 ] > Request Type - GET | Body - {} | 
+[02-07-2023 15:43:50] >>> [ Request - /products/random/3 ] > Request Type - GET | Body - {} | 
+[02-07-2023 15:43:50] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[02-07-2023 15:43:50] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[02-07-2023 15:43:50] >>> [ Request - /products/1 ] > Request Type - GET | Body - {} | 
+[02-07-2023 15:43:50] >>> [ Request - /products/random/4 ] > Request Type - GET | Body - {} | 

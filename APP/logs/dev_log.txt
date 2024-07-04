@@ -1,0 +1,8 @@
+----------------------- [ Start of Logs (02-07-2023 15:43:50) ] -----------------------
+[02-07-2023 15:43:50] >>> [ Request - /products/random/3 ] > Request Type - GET | Body - {} | 
+[02-07-2023 15:43:50] >>> [ Request - /products/random/3 ] > Request Type - GET | Body - {} | 
+[02-07-2023 15:43:50] >>> [ Request - /products/random/3 ] > Request Type - GET | Body - {} | 
+[02-07-2023 15:43:50] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[02-07-2023 15:43:50] >>> [ Request - /products/all ] > Request Type - GET | Body - {} | 
+[02-07-2023 15:43:50] >>> [ Request - /products/1 ] > Request Type - GET | Body - {} | 
+[02-07-2023 15:43:50] >>> [ Request - /products/random/4 ] > Request Type - GET | Body - {} | 
